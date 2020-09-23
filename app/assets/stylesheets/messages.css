@@ -69,7 +69,7 @@
   padding: 20px;
   text-decoration: none;
 }
-.chat-main{
+.messages{
   background-color: #fafafa;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
@@ -105,7 +105,7 @@
   margin-bottom: 40px;
 }
 
-.chat-bottom{
+.form{
   background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
@@ -116,6 +116,7 @@
   width: 100%;
   display: flex;
 }
+
 .form-image{
   font-size: 12px;
   background-color: lightblue;
