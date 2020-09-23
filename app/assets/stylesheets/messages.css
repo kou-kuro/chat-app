@@ -69,7 +69,7 @@
   padding: 20px;
   text-decoration: none;
 }
-.chat-main{
+.messages{
   background-color: #fafafa;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
