@@ -3,9 +3,9 @@ class RoomsController < ApplicationController
 
   def index
   end
-  
+
   def new
-    @rooms = Room.new
+    @room = Room.new
   end
 
   def create
